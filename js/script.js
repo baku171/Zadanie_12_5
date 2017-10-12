@@ -34,10 +34,6 @@ $(document).ready(function() {
         getQuote();
     });
 
-    $('.box').on('click', function() {
-        $('.wrapper').fadeOut();
-        $('.wait').delay(200).fadeIn();
-
 });
 
 

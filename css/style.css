@@ -10,9 +10,13 @@ h1 {
     font-family: 'Bad Script', cursive;
     font-size: 60px;
 }
+h2 {
+    font-size: 40px;
+}
 .box {
     color: white;
     font-family: 'Amatic SC', cursive;
+    font-size: 40px;
 }
 .trigger {
     color: white;
